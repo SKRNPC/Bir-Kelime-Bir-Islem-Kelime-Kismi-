@@ -1,0 +1,33 @@
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe.config
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.pdb
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Form1.resources
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Properties.Resources.resources
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\source\repos\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.pdb
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe.config
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.pdb
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Form1.resources
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Properties.Resources.resources
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\source\repos\BirKelimeBirİşlem(İşlem)\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.pdb
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe.config
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.pdb
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Form1.resources
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Properties.Resources.resources
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.exe
+C:\Users\sinan\Desktop\Yazılım Yapımı\BirKelimeBirİşlem\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.pdb
